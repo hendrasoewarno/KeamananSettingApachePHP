@@ -1,4 +1,4 @@
-# SecureApachePHP
+# Keamanan Setting Apache dan PHP
 Hal-hal yang dapat dilakukan untuk meningkatkan keamanan pada Apache Server dan PHP pada sisi client
 ### Menyembunyikan informasi server
 ```
